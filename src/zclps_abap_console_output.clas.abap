@@ -1,4 +1,4 @@
-CLASS zcl_ps1_console_output DEFINITION
+CLASS zclps_abap_console_output DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -11,7 +11,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_ps1_console_output IMPLEMENTATION.
+CLASS ZCLPS_ABAP_CONSOLE_OUTPUT IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
 
@@ -32,5 +32,4 @@ CLASS zcl_ps1_console_output IMPLEMENTATION.
     ).
 
   ENDMETHOD.
-
 ENDCLASS.
