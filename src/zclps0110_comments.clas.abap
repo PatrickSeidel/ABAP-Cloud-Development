@@ -1,4 +1,4 @@
-CLASS zclps_abap_comments DEFINITION
+CLASS zclps0110_comments DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -11,7 +11,7 @@ ENDCLASS.
 
 
 
-CLASS zclps_abap_comments IMPLEMENTATION.
+CLASS zclps0110_comments IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
 

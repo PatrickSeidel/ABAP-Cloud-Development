@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCLPS_ABAP_DATA_DECLARATION</CLSNAME>
+    <CLSNAME>ZCLPS0040_CONSOLE_OUTPUT</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Basic Data Declaration</DESCRIPT>
+    <DESCRIPT>Console Output</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

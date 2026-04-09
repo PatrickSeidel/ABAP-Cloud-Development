@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCLPS_ABAP_COMMENTS</CLSNAME>
+    <CLSNAME>ZCLPS0110_COMMENTS</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>ABAP Comments</DESCRIPT>
+    <DESCRIPT>Comments</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
