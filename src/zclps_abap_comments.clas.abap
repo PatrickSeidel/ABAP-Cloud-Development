@@ -15,7 +15,7 @@ CLASS zclps_abap_comments IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
 
-* 1a. Comment full lines ( Add comment -> Ctrl + > | Revome comment -> Ctrl + >| )
+* 1a. Comment full lines ( Add comment -> Ctrl + < | Revome comment -> Ctrl + >| )
 
 * 1b. Toggle full line ( Ctrl + 7 )
 
